@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/apptaca/static/css/main.073c9b0a.css",
-    "main.js": "/apptaca/static/js/main.148cefcf.js",
+    "main.js": "/apptaca/static/js/main.fd0613da.js",
     "index.html": "/apptaca/index.html",
     "main.073c9b0a.css.map": "/apptaca/static/css/main.073c9b0a.css.map",
-    "main.148cefcf.js.map": "/apptaca/static/js/main.148cefcf.js.map"
+    "main.fd0613da.js.map": "/apptaca/static/js/main.fd0613da.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.148cefcf.js"
+    "static/js/main.fd0613da.js"
   ]
 }
